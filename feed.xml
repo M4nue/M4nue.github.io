@@ -1,0 +1,89 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>manuelrodriguez.org/</id>
+  <title>ManuelRodriguez</title>
+  <subtitle>Blog para subir mis conocimientos.</subtitle>
+  <updated>2025-10-21T00:14:12+02:00</updated>
+  <author>
+    <name>Manuel</name>
+    <uri>manuelrodriguez.org/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="manuelrodriguez.org/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="manuelrodriguez.org/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Manuel </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Guia Completa Gns3 Wireshark copy</title>
+    <link href="manuelrodriguez.org/posts/guia-completa-gns3-wireshark-copy/" rel="alternate" type="text/html" title="Guia Completa Gns3 Wireshark copy" />
+    <published>2025-10-20T00:00:00+02:00</published>
+  
+    <updated>2025-10-21T00:04:02+02:00</updated>
+  
+    <id>manuelrodriguez.org/posts/guia-completa-gns3-wireshark-copy/</id>
+    <content type="text/html" src="manuelrodriguez.org/posts/guia-completa-gns3-wireshark-copy/" />
+    <author>
+      <name>Manuel</name>
+    </author>
+
+  
+    
+  
+
+  <summary>ÍNDICE  [INSTALACIÓN GNS3 DEBIAN 122]  [Creación de un entorno virtual y activación de este3]  [Instalación de paquetes requeridos para python4]  [Importar maquina GNS3 VM5]  [Iniciar la interfaz gráfica7]  [Escenario10]  [INSTALACIÓN WIRESHARK DEBIAN 1212]  [INSTALACIÓN GNS3 EN WINDOWS13]  [Escenario26]  [Instalación GNS3 VM28]  [INSTALACIÓN WIRESHARK WINDOWS30]  [CAPTURA TRÁFICO DNS31]  [CAPT...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Redes Apuntes</title>
+    <link href="manuelrodriguez.org/posts/REDES-APUNTES/" rel="alternate" type="text/html" title="Redes Apuntes" />
+    <published>2025-10-20T00:00:00+02:00</published>
+  
+    <updated>2025-10-20T00:00:00+02:00</updated>
+  
+    <id>manuelrodriguez.org/posts/REDES-APUNTES/</id>
+    <content type="text/html" src="manuelrodriguez.org/posts/REDES-APUNTES/" />
+    <author>
+      <name>Manuel</name>
+    </author>
+
+  
+    
+  
+
+  <summary>ÍNDICE  Definiciones	3 TEMA 1 REDES LOCALES	3 1.0 RED LOCAL	3 VENTAJAS	3 1.1 CARACTERÍSTICAS CPDS Y SERVIDORES	5 SERVIDOR	5 CLOUD	5 2.0 ELEMENTOS RED LOCAL	5 3.0 CLASIFICACIONES DE REDES Y CRITERIOS	7 SEGÚN SU TAMAÑO O EXTENSIÓN	7 SEGÚN LOS MEDIOS DE TRANSMISIÓN	8 GUIADOS	8 NO GUIADOS	9 SEGÚN LA TOPOLOGÍAS DE RED	9 SEGÚN LA TECNOLOGÍA DE TRANSMISIÓN	10 SEGÚN EL MODO DE TRANSMISIÓN	10 4.0 TIPOS ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Iso Apuntes</title>
+    <link href="manuelrodriguez.org/posts/ISO-APUNTES/" rel="alternate" type="text/html" title="Iso Apuntes" />
+    <published>2025-10-20T00:00:00+02:00</published>
+  
+    <updated>2025-10-21T00:04:02+02:00</updated>
+  
+    <id>manuelrodriguez.org/posts/ISO-APUNTES/</id>
+    <content type="text/html" src="manuelrodriguez.org/posts/ISO-APUNTES/" />
+    <author>
+      <name>Manuel</name>
+    </author>
+
+  
+    
+  
+
+  <summary>ÍNDICE  [Definiciones4]  [FICHEROS/DIRECTORIOS IMPORTANTES4]  [DIRECTORIOS RAÍCES4]  [APUNTES PROPIOS7]  [ATAJOS DE TECLADO Y TRUCOS7]  [COMANDOS8]  [VARIABLES12]  [Temario13]  [Tema 113]  [PERMISOS14]  [TIPOS DE FICHEROS14]  [EXPANSIÓN DE NOMBRES DE FICHERO14]  [EXPRESIONES DE NOMBRES COMPLEJAS15]  [EXPRESIONES LÓGICAS15]  [EXPANSIÓN DE COMANDOS16]  [CLAVES PÚBLICAS-PRIVADAS17]  [CARACTERES DE...</summary>
+
+  </entry>
+
+</feed>
+
+
