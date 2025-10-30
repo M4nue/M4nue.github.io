@@ -4,7 +4,7 @@
   <id>manuelrodriguez.org/</id>
   <title>ManuelRodriguez</title>
   <subtitle>Blog para subir mis conocimientos.</subtitle>
-  <updated>2025-10-21T00:14:12+02:00</updated>
+  <updated>2025-10-30T13:00:36+01:00</updated>
   <author>
     <name>Manuel</name>
     <uri>manuelrodriguez.org/</uri>
@@ -17,6 +17,50 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Sinsajo</title>
+    <link href="manuelrodriguez.org/posts/SINSAJO/" rel="alternate" type="text/html" title="Sinsajo" />
+    <published>2025-10-30T00:00:00+01:00</published>
+  
+    <updated>2025-10-30T00:00:00+01:00</updated>
+  
+    <id>manuelrodriguez.org/posts/SINSAJO/</id>
+    <content type="text/html" src="manuelrodriguez.org/posts/SINSAJO/" />
+    <author>
+      <name>Manuel</name>
+    </author>
+
+  
+    
+  
+
+  <summary>ÍNDICE  INSTALACIÓN Y CONFIGURACIÓN DE SERVICIOS	2  SERVIDORES	2  Postgresql	2  Mariadb	3  Apache2	4  isc-dhcp-server	5  CLIENTES	6  ASIGNACIÓN DE IP	6  ENRUTAMIENTO	8  DNAT Y SNAT	10  SNAT	10  DNAT	11  COMPROBACIONES	17  POLÍTICA POR DEFECTO	21  CONSERVAR ACCESO SSH ROUTER	22  IPTABLES PERSISTENTE	23  LOS CORTAFUEGOS HAN INTERRUMPIDO TODAS LAS COMUNICACIONES	24  R1-R2,R3,R4,R5	25  R2-R3,R4,R5	...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Prueba_ introduccion a la implantacion de aplicaciones web</title>
+    <link href="manuelrodriguez.org/posts/PRUEBA_-Introduccion-a-la-implantacion-de-aplicaciones-web/" rel="alternate" type="text/html" title="Prueba_ introduccion a la implantacion de aplicaciones web" />
+    <published>2025-10-30T00:00:00+01:00</published>
+  
+    <updated>2025-10-30T00:00:00+01:00</updated>
+  
+    <id>manuelrodriguez.org/posts/PRUEBA_-Introduccion-a-la-implantacion-de-aplicaciones-web/</id>
+    <content type="text/html" src="manuelrodriguez.org/posts/PRUEBA_-Introduccion-a-la-implantacion-de-aplicaciones-web/" />
+    <author>
+      <name>Manuel</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Manuel Rodriguez Curado 					30/10/2025</summary>
+
+  </entry>
 
   
   <entry>
